@@ -1,0 +1,15 @@
+{
+  "name": "intoroman",
+  "version": "1.0.6",
+  "description": "JavaScript: Convert an integer/number into a Roman Numeral/Number",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["JavaScript","int","integer","to","roman","number","numeral"],
+  "author": "tamaasrory",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.1"
+  }
+}
